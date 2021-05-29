@@ -17,11 +17,11 @@ const Donate = () => {
           <div className="mt-4">
             <a
               className="flex items-center justify-start w-20"
-              href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator"
+              href="https://twitter.com/intent/tweet?text=Wow:&url="
             >
               <img
                 className="w-20"
-                src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Frahuldkjain.github.io%2Fgithub-profile-readme-generator"
+                src="https://img.shields.io/twitter/url?style=social&url="
                 alt="tweet github profile readme generator"
               />
             </a>
@@ -32,7 +32,7 @@ const Donate = () => {
         <div className="w-full sm:w-1/3 flex flex-col justify-center items-center">
           <span>Tip<span role="img" aria-label="Dollar medal">💰</span></span>
           {/* Ko-Fi */}
-          <a
+          {/* <a
             href="https://ko-fi.com/A0A81XXSX"
             className="flex items-center justify-evenly bg-red-500 text-white py-2 px-4 my-2"
             target="_blank"
@@ -41,12 +41,12 @@ const Donate = () => {
             <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"
-              alt="Buy ko-fi for rahuldkjain"
+              alt="Buy ko-fi for ajf013"
             />
             Buy me a ko-fi
-          </a>
+          </a> */}
           {/* Paypal */}
-          <a
+          {/* <a
             href="https://www.paypal.me/rahuldkjain/10"
             className="flex items-center justify-evenly bg-white-500 text-white py-2 px-4 my-2 border border-solid"
             target="_blank"
@@ -57,16 +57,16 @@ const Donate = () => {
               src="https://cdn.worldvectorlogo.com/logos/paypal-2.svg"
               alt="Donate rahuldkjain via paypal"
             />
-            {/* <img
+            <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg"
               alt="Donate rahuldkjain via paypal"
             />
-            Paypal */}
-          </a>
+            Paypal
+          </a> */}
           {/* BuyMeACoffee */}
           <a
-            href="https://www.buymeacoffee.com/rahuldkjain"
+            href="https://www.buymeacoffee.com/ajf013"
             className="flex items-center justify-evenly bg-orange-500 text-white py-2 px-4 my-2"
             target="_blank"
             rel="noreferrer"
@@ -74,7 +74,7 @@ const Donate = () => {
             <img
               className="w-6 h-6 mr-2"
               src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-icon.svg"
-              alt="Buy rahuldkjain A Coffee"
+              alt="Buy ajf013 A Coffee"
             />
             Buy me a coffee
           </a>

@@ -53,8 +53,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator"
-              aria-label="Github rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ajf013/github-profile-readme-generator"
+              aria-label="Github ajf013/github-profile-readme-generator"
               target="blank"
             >
               Github
@@ -62,8 +62,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator/releases"
-              aria-label="Releases on Github rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ajf013/github-profile-readme-generator/releases"
+              aria-label="Releases on Github ajf013/github-profile-readme-generator"
               target="blank"
             >
               Releases
@@ -71,8 +71,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator/issues"
-              aria-label="Issues in rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ajf013/github-profile-readme-generator/issues"
+              aria-label="Issues in ajf013/github-profile-readme-generator"
               target="blank"
             >
               Issues
@@ -80,8 +80,8 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls"
-              aria-label="Pull Requests in rahuldkjain/github-profile-readme-generator"
+              href="https://github.com/ajf013/github-profile-readme-generator/pulls"
+              aria-label="Pull Requests in ajf013/github-profile-readme-generator"
               target="blank"
             >
               Pull Requests
@@ -108,11 +108,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="py-2 mt-2">
-        Developed in India{" "}
-        <span role="img" aria-label="india">
-          {" "}
-          🇮🇳
-        </span>
+        Developed with ❤️ by AJF013
       </div>
     </div>
   )

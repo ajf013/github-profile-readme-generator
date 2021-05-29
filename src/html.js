@@ -15,7 +15,7 @@ export default function HTML(props) {
         <script
           data-name="BMC-Widget"
           src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"
-          data-id="rahuldkjain"
+          data-id="ajf013"
           data-description="Support me on Buy me a coffee!"
           data-message="Loved the tool🚀. Buy me a coffee to support the work!"
           data-color="#FF813F"

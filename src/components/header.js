@@ -18,7 +18,7 @@ const Header = props => {
   const fetchData = async () => {
     if (shouldRequestStats()) {
       var response = await axios.get(
-        "https://api.github.com/repos/rahuldkjain/github-profile-readme-generator"
+        "https://api.github.com/repos/ajf013/github-profile-readme-generator"
       )
 
       const { stargazers_count, forks_count } = response.data
@@ -67,8 +67,8 @@ const Header = props => {
       </Link>
       <div className="flex justify-center items-center">
         <a
-          href="https://github.com/rahuldkjain/github-profile-readme-generator"
-          aria-label="Star rahuldkjain/github-profile-readme-generator on GitHub"
+          href="https://github.com/ajf013/github-profile-readme-generator"
+          aria-label="Star ajf013/github-profile-readme-generator on GitHub"
           target="blank"
           className="mr-2"
         >
@@ -81,8 +81,8 @@ const Header = props => {
           </div>
         </a>
         <a
-          href="https://github.com/rahuldkjain/github-profile-readme-generator/fork"
-          aria-label="Fork rahuldkjain/github-profile-readme-generator on GitHub"
+          href="https://github.com/ajf013/github-profile-readme-generator/fork"
+          aria-label="Fork ajf013/github-profile-readme-generator on GitHub"
           target="blank"
         >
           <div className="text-xxs sm:text-sm border-2 border-solid border-gray-900 bg-gray-100 flex items-center justify-center py-1 px-2">

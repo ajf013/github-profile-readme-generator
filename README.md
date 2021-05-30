@@ -31,7 +31,7 @@
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
-    <a href="" target="blank">View Demo</a>
+    <a href="https://githubprofilereadmegenerator.netlify.app/" target="blank">View Demo</a>
     ·
     <a href="https://github.com/ajf013/github-profile-readme-generator/issues/new/choose">Report Bug</a>
     ·
@@ -39,11 +39,10 @@
 </p>
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+<i>Loved the tool? Please consider <a href="https://www.buymeacoffee.com/ajf013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
+donating  💸 to help it improve!</i>
 </p>
 
-<a href="https://www.buymeacoffee.com/ajf013" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:1px" />
-</p>
 
 #### Tired of editing GitHub Profile README with new features?
 
@@ -52,10 +51,10 @@ This tool provides an easy way to create a GitHub profile readme with the latest
 
 ## 🚀 Demo 
 <a href="" target="blank">
-<img src="https://img.shields.io/website?url=https%3A%2F%2Frahuldkjain.github.io%2Fgh-profile-readme-generator&logo=github&style=flat-square" />
+<img src="https://img.shields.io/website?url=https%3A%2F%2Fgithubprofilereadmegenerator.netlify.app/&logo=github&style=flat-square" />
 </a>
 
-Try the tool: [GitHub Profile README Generator](https://)
+Try the tool: [GitHub Profile README Generator](https://githubprofilereadmegenerator.netlify.app/)
 
 ## 🧐 Features
 

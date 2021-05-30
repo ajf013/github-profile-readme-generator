@@ -27,7 +27,7 @@ const Footer = () => {
             </div>
           </h1>
         </div>
-        <div className="text-xl sm:text-base font-light sm:font-normal">
+        {/* <div className="text-xl sm:text-base font-light sm:font-normal">
           <div className="font-title font-bold mb-4 sm:mb-2">
             <strong>Pages</strong>
           </div>
@@ -46,7 +46,7 @@ const Footer = () => {
               About
             </Link>
           </div>
-        </div>
+        </div> */}
         <div className="text-xl sm:text-base font-light sm:font-normal">
           <div className="font-title font-bold my-4 sm:my-0 sm:mb-2">
             <strong>More</strong>
@@ -94,7 +94,7 @@ const Footer = () => {
           </div>
           <div className="ml-2 sm:ml-0">
             <a
-              href="https://discord.gg/HHMs7Eg"
+              href="https://chat.whatsapp.com/HrbwtyT1qf9FE63dfyyWv"
               aria-label="Discord of the community"
               target="blank"
             >

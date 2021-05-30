@@ -18,10 +18,10 @@ A clear and concise description of any alternative solutions or features you've 
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
-Join the **Discord Server** for further discussions.
+Join the **Whatsapp Group** for further discussions.
 
-<a href="https://discord.gg/HHMs7Eg">
-<img src="https://discord.com/assets/e4923594e694a21542a489471ecffa50.svg" alt="GPRG Discord Server Link" width="300px"/>
+<a href="https://chat.whatsapp.com/HrbwtyT1qf9FE63dfyyWv">
+<img src="![image](https://user-images.githubusercontent.com/66255401/120076515-81934480-c0c3-11eb-9ad3-87072d53a395.png)" alt="Whatsapp Group" width="300px"/>
 </a>
 
-Server Link: https://discord.gg/HHMs7Eg
+Group Link: https://chat.whatsapp.com/HrbwtyT1qf9FE63dfyyWv

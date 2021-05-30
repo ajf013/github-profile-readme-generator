@@ -14,20 +14,6 @@ const Donate = () => {
           <div className="text-lg">
             Your kind support keeps open-source tools like this free for others.
           </div>
-          <div className="mt-4">
-            <a
-              className="flex items-center justify-start w-20"
-              href="https://twitter.com/intent/tweet?text=Wow:&url="
-            >
-              <img
-                className="w-20"
-                src="https://img.shields.io/twitter/url?style=social&url="
-                alt="tweet github profile readme generator"
-              />
-            </a>
-            Let the world know how you feel using this tool. Share with others
-            on twitter.
-          </div>
         </div>
         <div className="w-full sm:w-1/3 flex flex-col justify-center items-center">
           <span>Tip<span role="img" aria-label="Dollar medal">💰</span></span>

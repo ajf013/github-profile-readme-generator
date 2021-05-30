@@ -17,7 +17,7 @@ export default function Template({
         <title>{frontmatter.title}</title>
         <link
           rel="canonical"
-          href={``}
+          href={`https://githubprofilereadmegenerator.netlify.app/`}
         />
       </Helmet>
       <div className="m-4 sm:p-10">

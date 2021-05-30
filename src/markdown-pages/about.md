@@ -1,11 +1,11 @@
 ---
 slug: "/about"
-date: "2019-05-04"
+date: "2021-06-01"
 title: "👨‍💻 About"
 ---
 
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
+<a href="https://github.com/ajf013/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/ajf013/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
 </a>
 
 **GitHub Profile README Generator** is an OSS(Open Source Software) that provides a cool interface to generate GitHub profile README in markdown.
@@ -16,30 +16,28 @@ The profile should be neat and minimal to give a clear overview of the work. Non
 
 To solve this, GitHub Profile README Generator came into existence.
 
-So many developers contributed to the project and made it more awesome to use. You can contribute too to make it grow even further.
-
 <p align="left">
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+<a href="https://github.com/ajf013/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ajf013/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
 <br>
-<a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<a href="https://github.com/ajf013/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ajf013/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 </p>
 
-### Contributors 🙏
+<!-- ### Contributors 🙏
 
 List of the developers who contributed to the project. A big shout out for them.
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/graphs/contributors">
 <img src="https://contributors-img.web.app/image?repo=rahuldkjain/github-profile-readme-generator" />
-</a>
+</a> -->
 
 <hr/>
 
 ## How do I create a profile README?
 
-The profile README is created by creating a new repository that’s the same name as your username. For example, my GitHub username is **rahuldkjain** so I created a new repository with the name **rahuldkjain**. Note: at the time of this writing, in order to access the profile README feature, the letter-casing must match your GitHub username.
+The profile README is created by creating a new repository that’s the same name as your username. For example, my GitHub username is **ajf013** so I created a new repository with the name **ajf013**. Note: at the time of this writing, in order to access the profile README feature, the letter-casing must match your GitHub username.
 
 1. Create a new repository with the same name (including casing) as your GitHub username: https://github.com/new
 
@@ -56,7 +54,7 @@ Tired of editing profile README(.md) to add new features like visitors-count bad
 
 Don't worry. Keep calm, fill the form and let the tool do the work for you
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif"
+<img src="https://raw.githubusercontent.com/ajf013/github-profile-readme-generator/master/src/images/github-profile-readme-generator.gif"
 alt="github profile readme generator" width="320" /><br/><br/>
 
 <hr/>

@@ -1,6 +1,6 @@
 ---
 slug: "/addons"
-date: "2019-05-04"
+date: "2021-06-01"
 title: "🚀 Addons"
 ---
 
@@ -12,14 +12,14 @@ GitHub Profile README Generator tool uses few open-source addons developed by ot
 
 #### GitHub Stats Card
 
-<a href="https://github.com/rahuldkjain" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true" width="320" alt="Rahul's github stats"/>
+<a href="https://github.com/ajf013" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajf013&show_icons=true" width="320" alt="AJF013's github stats"/>
 </a>
 
 #### Top Skills Card
 
-<a href="https://github.com/rahuldkjain" target="blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahuldkjain&layout=compact&hide=html" width="320" alt="Rahul's github top skills"/>
+<a href="https://github.com/ajf013" target="blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajf013&layout=compact&hide=html" width="320" alt="ajf013's github top skills"/>
 </a>
 
 Developed by [Anurag Hazra](https://github.com/anuraghazra).
@@ -32,7 +32,7 @@ You can customize the theme too. See how to customize yours [here](https://githu
 
 Stay motivated while contributing to open source by displaying your current contribution streak
 
-![rahuldkjain](https://github-readme-streak-stats.herokuapp.com/?user=rahuldkjain)
+![ajf013](https://github-readme-streak-stats.herokuapp.com/?user=ajf013)
 
 Developed by by [Jonah Lawrence](https://github.com/DenverCoder1).
 
@@ -44,7 +44,7 @@ See how to customize the theme [here](https://github.com/DenverCoder1/github-rea
 
 It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 
-![rahuldkjain](https://komarev.com/ghpvc/?username=rahuldkjain&style=flat-square)
+![ajf013](https://komarev.com/ghpvc/?username=ajf013&style=flat-square)
 
 Developed by by [Anton Komarev](https://github.com/antonkomarev).
 
@@ -89,7 +89,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/rahuldkjain, https://medium.com/feed/@rahuldkjain"
+          feed_list: "https://ajf013.blogspot.com, "
 ```
 
 - Replace the above url list with your own rss feed urls. See [popular-sources](#popular-sources) for a list of common RSS feed urls.

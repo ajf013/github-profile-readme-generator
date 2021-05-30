@@ -4,6 +4,7 @@
   "description": "A simple react app to generate beautiful github profile readme in md(markdown)",
   "version": "1.2.0",
   "author": "AJF013 <cruzmma2021@gmail.com>",
+  "homepage": "https://ajf013.github.io/github-profile-readme-generator",
   "dependencies": {
     "@primer/octicons-react": "^10.0.0",
     "enzyme": "^3.11.0",
@@ -36,6 +37,7 @@
     "gatsby-plugin-twitter": "^2.3.10",
     "gatsby-remark-embedder": "^3.0.0",
     "gh-pages": "^3.1.0",
+    "github-pages": "^3.0.2",
     "identity-obj-proxy": "3.0.0",
     "jest": "26.4.2",
     "prettier": "2.0.5",

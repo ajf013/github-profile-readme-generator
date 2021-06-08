@@ -420,7 +420,7 @@ export const SupportPreview = props => {
         <div style={{ width: "210px" }}>
           <a
             href={`https://www.buymeacoffee.com/` + props.support.buyMeACoffee}
-            target="_blank"
+            target="_blank" rel="noreferrer noopenner"
           >
             <img
               src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
